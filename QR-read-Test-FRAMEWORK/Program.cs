@@ -45,7 +45,7 @@ namespace QR_read_Test_FRAMEWORK
 
             //var result = reader.decode(new BinaryBitmap(new HybridBinarizer(new RGBLuminanceSource(imageBytes, width, height))));
 
-            //// Print the QR code text
+            // Print the QR code text
             //if (result != null)
             //{
             //    Console.WriteLine(result.Text);
